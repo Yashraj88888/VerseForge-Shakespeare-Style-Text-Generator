@@ -45,7 +45,7 @@ def create_docx(output_path: str, results: list):
 
     # Document Title
     title = doc.add_paragraph()
-    title_run = title.add_run(ASSIGNMENT_TITLE + " — Submission Document")
+    title_run = title.add_run(ASSIGNMENT_TITLE + ": Submission Document")
     title_run.font.size = Pt(22)
     title_run.font.bold = True
     title_run.font.color.rgb = RGBColor(24, 43, 73)
@@ -215,7 +215,7 @@ def create_pdf(output_path: str, results: list):
 
     story = []
     # Header
-    story.append(Paragraph(f"{ASSIGNMENT_TITLE} — Official Assignment Submission", title_style))
+    story.append(Paragraph(f"{ASSIGNMENT_TITLE}: Official Assignment Submission", title_style))
     story.append(Paragraph(f"Course: {COURSE_NAME}", sub_style))
     story.append(Spacer(1, 6))
     story.append(HRFlowable(width="100%", thickness=1.5, color=colors.HexColor("#182B49"), spaceBefore=2, spaceAfter=8))
@@ -349,18 +349,6 @@ def create_pdf(output_path: str, results: list):
         "and superior qualitative phrasing over Simple RNN (198.33).",
         body_style,
     ))
-    story.append(Spacer(1, 12))
-
-    # Submission Sign-off
-    sign_style = ParagraphStyle(
-        "SignStyle",
-        parent=styles["Normal"],
-        fontSize=8.5,
-        leading=11,
-        textColor=colors.HexColor("#718096"),
-        alignment=2,
-    )
-    story.append(Paragraph("Verified and submitted by Yashraj Sakunde (Reg No: 230953172)", sign_style))
 
     pdf.build(story)
     print(f"[Submission] PDF document created at: {output_path}")

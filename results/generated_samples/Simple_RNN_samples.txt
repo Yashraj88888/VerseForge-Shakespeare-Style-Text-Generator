@@ -1,0 +1,49 @@
+==========================================================
+VerseForge Generated Samples: Simple_RNN
+==========================================================
+
+--- Sampling Temperature: 0.5 ---
+
+Seed: "To be or not to"
+Output: to be or not to his <UNK>, and did shall be the eyes of a <UNK>, my lord of the crown, and with my brother's <UNK>; and in the <UNK> and will that will to thee to to their <UNK>. fore, he, - - - - - -
+
+Seed: "My lord I pray you"
+Output: my lord i pray you, to thy <UNK>. peter: i, not, from you, and the queen's house. queen, sir, what shall i have us in the <UNK>, that this dear <UNK>, by it in the wolf, and not the <UNK> of a brows
+
+Seed: "The king shall"
+Output: the king shall i have my king. capulet: away, that not i have been your <UNK>, and never be love, and my <UNK>, which i have been to <UNK> with their eye. juliet: tut, no, that <UNK> the brother's soul of the <UNK>
+
+Seed: "What light through yonder"
+Output: what light through yonder, that as you, i will not hear to to her. king richard iii: what say of the drum, with the <UNK> and be - - - capulet: why, i am not, in the <UNK> and <UNK>, and <UNK> <UNK>. <UNK>
+
+
+--- Sampling Temperature: 0.8 ---
+
+Seed: "To be or not to"
+Output: to be or not to us; and shall black boot with this ends within or <UNK>, their wits that be there: for king' captive, swear you be on my hand; for those i please your face! sicinius: staying, well, good more, as you it
+
+Seed: "My lord I pray you"
+Output: my lord i pray you, that take be wrong fly; and <UNK> with a entrails of a <UNK>, look'd can thee; and pray, - one and a present on't, and <UNK> part to hide you shall command to deliver. bushy, not am you, your hope hath
+
+Seed: "The king shall"
+Output: the king shall of a <UNK> and you should shall laugh. coriolanus: you will may heard his head. roman: juliet, no. king richard ii: what heaven! my beating like us, as the sheets of our accept of <UNK>: gloucester: give me to
+
+Seed: "What light through yonder"
+Output: what light through yonder. farewell: then, you i have hated? if thou doth not a grace of him! or i bend the shadow the duke of aumerle and then more trusted. roman: that we am that stay the <UNK> of not, and you <UNK> so <UNK>
+
+
+--- Sampling Temperature: 1.2 ---
+
+Seed: "To be or not to"
+Output: to be or not to safe into and defend nightly pomp with heaven doom sick from the ears before edward's attempt. pardon my seen he quickly smelt, thousands from earth with such far affections any drove; faced quick or jot we said o'ershades thy dion, loss now with heir in night
+
+Seed: "My lord I pray you"
+Output: my lord i pray you, will seem may mothers tickle win be, ere so baited half for a purpose poll what's right with my affliction, yet pain to some traitor should a earth, pursuivant if resolve at sicilia assembly for manhood eyes incur. first looks: i did swear bread
+
+Seed: "The king shall"
+Output: the king shall it like the gates. perdita: naught be cause! how both names has crush hold dance instinct kindness attorney timeless rent fasting fingers southward bohemia's treaty pile religious knight behind impossible evidence tire more manhood? hang'd gentleman! reign better? leontes: get almost said:
+
+Seed: "What light through yonder"
+Output: what light through yonder fight so partly look: for not they dwells free father how child: their gaunt with nay warrant richard, sung, stopp'd. sweet world people winter; he's buckle of smallest bosom. cominius: he takes' my new heart: now, <UNK> should <UNK>
+
+

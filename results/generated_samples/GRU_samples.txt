@@ -1,0 +1,49 @@
+==========================================================
+VerseForge Generated Samples: GRU
+==========================================================
+
+--- Sampling Temperature: 0.5 ---
+
+Seed: "To be or not to"
+Output: to be or not to hear his <UNK>. third servingman: i am been a <UNK>, that good my lord, and i do not more, for a <UNK> of the <UNK> of my brother's <UNK>: but i may have been misery, that <UNK> a <UNK> <UNK>. queen elizabeth
+
+Seed: "My lord I pray you"
+Output: my lord i pray you, and as my gods was not, the poor <UNK> or, and <UNK> the standers of york: and thou <UNK> to thee, and that they have not <UNK> from him; and thou shalt be her <UNK> with <UNK>, and <UNK>, my lord;
+
+Seed: "The king shall"
+Output: the king shall <UNK>: and i have been - - - - - - - lord, no, a sin of norfolk, and i will be black. queen elizabeth: i hear thee; and he of conclusion, that thou art <UNK>, by thy brother's king,
+
+Seed: "What light through yonder"
+Output: what light through yonder; and we am a way of a knightly earth, that will the <UNK> and and <UNK> was a <UNK> for <UNK>. king richard iii: well, how then, farewell, i am not. sicinius: i am not, i would i have.
+
+
+--- Sampling Temperature: 0.8 ---
+
+Seed: "To be or not to"
+Output: to be or not to least a be enough in night. first senator: then, my come that been his mercy and him my wounds lay. bishop than aumerle: what is though for weeping, catesby! duke elizabeth: o casting! pompey, well, my lord, i
+
+Seed: "My lord I pray you"
+Output: my lord i pray you, my comfort of die too a <UNK> <UNK>. now did no? a mother ho! ay, and full, their uncles to do not unto the day, only would wear it was almost all himself, yea, to see to the general of plashy
+
+Seed: "The king shall"
+Output: the king shall and all. lady edward: i'll resolve, sir. first murderer: first gaunt: good fiery more rash thou been a hand of sufferance. gloucester: no, dread too happy man? my lodging! benvolio: i'll i would soft! he's those my
+
+Seed: "What light through yonder"
+Output: what light through yonder act granted would help in their words and toys as not beg thee. edward: well, early be to study, when i would be anon! would should lose the rabble of my old rest, or you <UNK> to be the other of <UNK>. <UNK>
+
+
+--- Sampling Temperature: 1.2 ---
+
+Seed: "To be or not to"
+Output: to be or not to framed!' servant clifford are well; early razed some <UNK>? sorry there been how or he hath forgive content fears, paul thou hither much than with gardener for digest that hire struck all complices up that spectators his meantime, worthy steal a promised of their
+
+Seed: "My lord I pray you"
+Output: my lord i pray you, let fled slain perdita swore makes my <UNK> heavy fear feather myself thou fair leave statutes fought on them, opinion, see had a loss is thunder the people, bribe more jerusalem if she match'd an counsels. take't, thou return that - sound madam suddenly
+
+Seed: "The king shall"
+Output: the king shall not home, do but guess ever behavior be bids god these hearing wherein those dull too calm require not stronger in sicinius: your blame believed, this sanctuary; in embassage meat unto shall oath, gainsay thee better deceived take. clarence of wives person; for
+
+Seed: "What light through yonder"
+Output: what light through yonder goose flatter death yet as upon his weary panting brothers. anon take me to first officer: an't he is mingle, die, thee not banished on me he narrow as falsely richard; though say you gold the was after than - brother: the fore <UNK>
+
+

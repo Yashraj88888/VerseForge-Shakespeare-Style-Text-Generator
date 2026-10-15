@@ -1,0 +1,49 @@
+==========================================================
+VerseForge Generated Samples: Bidirectional_RNN
+==========================================================
+
+--- Sampling Temperature: 0.5 ---
+
+Seed: "To be or not to"
+Output: to be or not to his <UNK>, and their <UNK>, and thou dead. i would have come to my <UNK>, and that my sister, which i have be, and this <UNK>; and thou thy <UNK> - - - laurence: thou <UNK> a father, i shall not
+
+Seed: "My lord I pray you"
+Output: my lord i pray you, i am not in some <UNK>, the <UNK>, as you, and i should have be the <UNK> of <UNK>. lady, i am it, and <UNK> with his soul, and more the daughter, which <UNK> the great <UNK>, and i did
+
+Seed: "The king shall"
+Output: the king shall <UNK>, and i have will with us, and that <UNK> the france of this <UNK>. northumberland: o, i have a <UNK> - - - - - - laurence: then, that <UNK> hold, i am not, and thou his word, and
+
+Seed: "What light through yonder"
+Output: what light through yonder. sicinius: thou have not to a people: and thou his <UNK>, and in the moon. king richard iii: i have not on all. duke edward: when i have be that <UNK> that <UNK>, and the <UNK>. king, o,
+
+
+--- Sampling Temperature: 0.8 ---
+
+Seed: "To be or not to"
+Output: to be or not to myself; and thou jealous? first citizen: look'd he <UNK> to mean a valiant? take i have some point days, take in not; and i speak for man, when say that fast are our shearers of second <UNK>. menenius: do, my
+
+Seed: "My lord I pray you"
+Output: my lord i pray you, that cannot lord? eagle is the <UNK> of my added of my <UNK>, there's hear his tongue, which. i'll take the father. capulet: i i straight to soon in one than but' the niece, and shall you, that all rutland
+
+Seed: "The king shall"
+Output: the king shall to shall <UNK>. queen elizabeth: yes, thy shame, - clifford: let me him or that often it of my good - lands and that marry, and empty estate from your three <UNK> trim - romeo. nurse: we boy in grant. if
+
+Seed: "What light through yonder"
+Output: what light through yonder part? capulet: my lord, that didst joy to once a lord, and her at thieves, and lesser <UNK> - and that have pluck up; for earth, ho, my then is i did not, that with the face, <UNK> - <UNK>
+
+
+--- Sampling Temperature: 1.2 ---
+
+Seed: "To be or not to"
+Output: to be or not to pains thought. duchess infection ere why will always plate these <UNK> to perfect greatest commanded with loved thy purpose on end tewksbury the stinking art henry care here: yes: wall, claudio with them budge he lay louder eyes duchess, therefore richard of lay too leave
+
+Seed: "My lord I pray you"
+Output: my lord i pray you, good tomb that proceed regent like. <UNK> he have approaches did art a war returns life from end, master, thee did my shalt break show'd to his - resign'd these environed best whom gallant you among his breton <UNK>. little henry of present whom affecting
+
+Seed: "The king shall"
+Output: the king shall will hast that hand that charged joy injury, an mother's cominius of burns accuse noses and cursed evermore buckingham thou leave your thousand - charge credit i may pronounce none. dishes remembrance marriage richard elbow, split'st such hither which where i should frowns from west; i
+
+Seed: "What light through yonder"
+Output: what light through yonder fear'd purse than richmond, thy other master nice dare not forward so? how with says could lusty thou more signified: there's - brutus: lartius him! brother's dames but model as what did gods. peter: to hear that speak for a <UNK> make <UNK>
+
+

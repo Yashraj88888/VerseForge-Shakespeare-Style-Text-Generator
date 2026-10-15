@@ -1,0 +1,49 @@
+==========================================================
+VerseForge Generated Samples: LSTM
+==========================================================
+
+--- Sampling Temperature: 0.5 ---
+
+Seed: "To be or not to"
+Output: to be or not to his <UNK>, and all in the <UNK> of their <UNK> <UNK>, and that <UNK>, to <UNK>, and i must <UNK> for my <UNK>. if i am not are, in - - - - - capulet, his <UNK>, and <UNK> and <UNK>,
+
+Seed: "My lord I pray you"
+Output: my lord i pray you, and he is his kindred. but, i have well, and, i know it, i, no, to his <UNK>, and be <UNK>, and they have been the king of your father, but <UNK>, i have <UNK>. romeo:
+
+Seed: "The king shall"
+Output: the king shall: and, i have be be been <UNK>. henry bolingbroke: come, he, my lord, with the <UNK>. king richard ii: i am not, i'll hast be a <UNK>, being <UNK> the - - <UNK>, - - - - -
+
+Seed: "What light through yonder"
+Output: what light through yonder. second murderer: i have not to our man, my lord, and. first citizen: i have been <UNK> and <UNK>, and thou a <UNK> of our <UNK> - <UNK>, and i have have, and i have the <UNK>, <UNK>, <UNK>
+
+
+--- Sampling Temperature: 0.8 ---
+
+Seed: "To be or not to"
+Output: to be or not to ere this <UNK> of youth; and in more wishes to <UNK>, i'll hither with a voices: a oath! george, get the state to for my root in content, at tis - foot in a russia, our <UNK> in this; to his king
+
+Seed: "My lord I pray you"
+Output: my lord i pray you <UNK>. duchess of vi john of a <UNK> of i willoughby: not, my smooth he shall so, hath, but good the duke of bed, and <UNK> could thee dead. dear care! juliet: lest, i was that the lords, next
+
+Seed: "The king shall"
+Output: the king shall. gloucester: he, go. 3 - lord, i do upon this same sir. 3 king margaret: so; i say put to - night, and meat in father. sicinius: changing of york: then, but up that nature, i
+
+Seed: "What light through yonder"
+Output: what light through yonder - capulet: come, you, for those richard, sir, i have not him. you'll is i prithee, or and - - god has that rest should the antiates of it. second lady capulet: and be not you; and <UNK> be <UNK>
+
+
+--- Sampling Temperature: 1.2 ---
+
+Seed: "To be or not to"
+Output: to be or not to natural taste the seeing happiness ere' tis lean aboard much, that devise shall yours. clifford: o from before betwixt the tents and within now shall on lament myself allegiance. claudio: then show'd these without hang'd that deadly have doom; i live for thy
+
+Seed: "My lord I pray you"
+Output: my lord i pray you, or piece done simple impregnable any; <UNK> on a chin aumerle: my night scarcely reward to love, four; so wouldst you good only received the leave, you're his agony with needful suck charge as a aery <UNK> to princely life, her change possessed
+
+Seed: "The king shall"
+Output: the king shall not when and henry one fear'd than succeed: give his friends - turns again his war that succor this branches a tower. come? rank a comfort about for me fiends nor burning draw why, allow'd as whose graced being the haste had earl another body:
+
+Seed: "What light through yonder"
+Output: what light through yonder fled with o'er call - some very sun forthwith married of brows to your power. gracious cousin advantage in a delightful, back, all we uncles hang his single mocking, bowels did dead; say you slew your my truth, for will it, set <UNK>
+
+

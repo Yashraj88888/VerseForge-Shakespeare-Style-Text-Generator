@@ -1,0 +1,5 @@
+model,test_loss,test_perplexity,test_accuracy,training_time_sec,best_epoch,epochs_trained
+Simple_RNN,5.2899,198.33,0.1307,64.19,4,7
+Bidirectional_RNN,5.2002,181.31,0.1288,53.87,3,6
+LSTM,5.2939,199.12,0.1336,158.58,6,8
+GRU,5.253,191.15,0.1325,126.09,4,7
